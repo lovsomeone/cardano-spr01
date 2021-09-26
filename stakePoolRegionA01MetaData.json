@@ -1,0 +1,6 @@
+{
+"name": "Stake pool region A",
+"description": "The stake pool for region A. Including all delegators staking",
+"ticker": "SPR01",
+"homepage": "https://cardano-spr01.com"
+}
